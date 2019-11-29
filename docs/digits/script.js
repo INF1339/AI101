@@ -136,4 +136,4 @@ async function train(model, data) {
   });
 }
 
-//document.addEventListener('DOMContentLoaded', run);
+document.addEventListener('DOMContentLoaded', run);
